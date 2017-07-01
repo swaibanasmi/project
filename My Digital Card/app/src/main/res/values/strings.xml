@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search_hint">Enter Search Keyword</string>
+    <string name="app_label">MY DIGITAL CARD</string>
+</resources>

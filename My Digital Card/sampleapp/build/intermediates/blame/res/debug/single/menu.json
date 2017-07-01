@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nasmi/AndroidStudioProjects/My Digital Card/sampleapp/build/intermediates/res/merged/debug/menu/deeplink.xml",
+        "source": "/home/nasmi/AndroidStudioProjects/My Digital Card/sampleapp/src/main/res/menu/deeplink.xml"
+    },
+    {
+        "merged": "/home/nasmi/AndroidStudioProjects/My Digital Card/sampleapp/build/intermediates/res/merged/debug/menu/api.xml",
+        "source": "/home/nasmi/AndroidStudioProjects/My Digital Card/sampleapp/src/main/res/menu/api.xml"
+    },
+    {
+        "merged": "/home/nasmi/AndroidStudioProjects/My Digital Card/sampleapp/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/nasmi/AndroidStudioProjects/My Digital Card/sampleapp/src/main/res/menu/main.xml"
+    }
+]

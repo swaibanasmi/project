@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:drawable/toast_frame"
+    android:id="@+id/custom_toast_container">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/toast1"
+        android:text="• please enter name"
+        android:shadowColor="#BB000000"
+        android:textColor="#ffffff"
+        android:shadowRadius="2.75"
+        android:visibility="gone"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/toast2"
+        android:text="• please enter designation"
+        android:shadowColor="#BB000000"
+        android:textColor="#ffffff"
+        android:shadowRadius="2.75"
+        android:visibility="gone"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/toast3"
+        android:text="• please enter email"
+        android:shadowColor="#BB000000"
+        android:textColor="#ffffff"
+        android:shadowRadius="2.75"
+        android:visibility="gone"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/toast4"
+        android:text="• please enter cell number"
+        android:shadowColor="#BB000000"
+        android:textColor="#ffffff"
+        android:shadowRadius="2.75"
+        android:visibility="gone"
+        />
+    </LinearLayout>
